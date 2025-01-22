@@ -1,0 +1,2 @@
+,Average WER,Average WLR,Average CER,Average CLR,Average Levenshtein Distace,Average Precision,Average Recall,Average F1,Average Inference Time
+0,1.0,0.0,0.9943051130565962,0.00569488694340381,688.2,0.13020558253116393,0.031187086122108403,0.0468734445908359,2.418800640106201
