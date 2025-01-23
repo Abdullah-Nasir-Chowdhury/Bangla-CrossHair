@@ -12,9 +12,9 @@ Bangla CrossHair is a project dedicated to developing a strong bangla OCR Engine
 ## Dataset Structure
 
 The dataset is organized as follows:
-- `Images/`: Contains the Bangla character images. Each file is named according to the corresponding character.
-- `Annotations/`: (Optional) Includes metadata or labels, if available, for supervised learning tasks.
-
+- `Code/`: Contains the code associated with our study.
+- `Images/`: Includes all the images associated with our study.
+- `Results/`: You can find the results of a comparative study on PyTesseract and Easy OCR in the results folder.
 
 ## Installation
 
