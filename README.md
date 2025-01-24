@@ -16,6 +16,10 @@ The dataset is organized as follows:
 - `Images/`: Includes all the images associated with our study.
 - `Results/`: You can find the results of a comparative study on PyTesseract and Easy OCR in the results folder.
 
+## Methodology
+
+![Methodology](https://github.com/Abdullah-Nasir-Chowdhury/Bangla-CrossHair/blob/main/Images/Methodology_revised.png)
+
 ## Installation
 
 1. **Clone the Repository**:
